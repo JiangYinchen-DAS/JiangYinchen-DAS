@@ -3,19 +3,21 @@
 - 👋 Hi, I’m @jyc8145
 - 👀 I’m interested in ...
   
-  something.
+  Something.
 - 🌱 I’m currently learning ...
   
-  something.
+  Something.
 - 💞️ I’m looking to collaborate on ...
   
   no.
 - 📫 How to reach me ...
+
+  ~~You can`t reach me.~~
   
-  by email: jiangyinchen00@gmail.com.
+  By email: jiangyinchen00@gmail.com.
 - 😄 Pronouns: ...
   
-  jyc.
+  Jyc.
 - ⚡ Fun fact: ...
   
   I don't know.
