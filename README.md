@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...    
   OK, you can reach me.
 - 📫 How to reach me ...  
-  ~~You can`t reach me.~~    
+  ~~You can not reach me.~~    
   By email: jiangyinchen00@gmail.com or jyc1415926@163.com.
   By discord: jyc8145 (I don`t often use discord).
   Or in the physical world.
@@ -16,16 +16,6 @@
   jyc/国之动梁/math lay poo.
 - ⚡ Fun fact: ...    
   I don't know.
-
-
-
-## My Project Queue
-1.Machine Learning
-2.Add CSS to my [website](http://jyc.rf.gd/). Maybe you can`t see it now.
-3.Recreate https://nazo.one-story.cn/
-4.Image (this is my home work)
-5.Thorr (Recreate florr.io)
-6.Florr Helper
 You can tell me the project you want me to do.
 
 ## My Acconts
